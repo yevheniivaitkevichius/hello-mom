@@ -1,0 +1,12 @@
+h1 {
+	font-size: 40px;
+	color: blue;
+	margin-bottom: 100px;
+	font-style: oblique;
+	font-weight: 700;
+	text-align: center;
+}
+
+.output {
+	color: hotpink;
+}
